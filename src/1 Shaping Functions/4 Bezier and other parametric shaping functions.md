@@ -20,7 +20,6 @@ float quadraticBezier (float x, float a, float b){
 }
 ```
 
-![[Pasted image 20250515135116.png]]
 
 **Cubic Bezier**
 
@@ -78,7 +77,6 @@ float yFromT (float t, float E, float F, float G, float H){
 }
 ```
 
-![[Pasted image 20250515135140.png]]
 **Cubic Bezier (Nearly) Through Two Given Points**
 
 ```
@@ -158,4 +156,3 @@ float  findy (float t, float y0, float y1, float y2, float y3){
 }
 ```
 
-![[Pasted image 20250515135206.png]]

@@ -12,8 +12,6 @@ float circularEaseOut (float x){
   return y;
 }
 ```
-
-![[Pasted image 20250515134737.png]]
 **Double-Circle Seat**
 ```
 float doubleCircleSeat (float x, float a){
@@ -30,8 +28,6 @@ float doubleCircleSeat (float x, float a){
   return y;
 }
 ```
-
-![[Pasted image 20250515134753.png]]
 **Double-Circle Sigmoid**
 
 ```
@@ -49,7 +45,6 @@ float doubleCircleSigmoid (float x, float a){
   return y;
 }
 ```
-![[Pasted image 20250515134812.png]]
 **Double-Elliptic Seat**
 ```
 float doubleEllipticSeat (float x, float a, float b){
@@ -70,8 +65,6 @@ float doubleEllipticSeat (float x, float a, float b){
   return y;
 }
 ```
-
-![[Pasted image 20250515134833.png]]
 **Double-Elliptic Sigmoid**
 ```
 float doubleEllipticSigmoid (float x, float a, float b){
@@ -93,8 +86,6 @@ float doubleEllipticSigmoid (float x, float a, float b){
   return y;
 }
 ```
-
-![[Pasted image 20250515134909.png]]
 **Double-Linear with Circular Fillet**
 ```
 // Joining Two Lines with a Circular Arc Fillet
@@ -255,8 +246,6 @@ void computeFilletParameters (
   arcEndY       = arcCenterY + arcRadius*sin(arcEndAngle);
 }
 ```
-
-![[Pasted image 20250515134945.png]]
 **Circular Arc Through a Given Point**
 
 ```
@@ -390,4 +379,3 @@ float pt3x, float pt3y)
 }
 ```
 
-![[Pasted image 20250515135012.png]]

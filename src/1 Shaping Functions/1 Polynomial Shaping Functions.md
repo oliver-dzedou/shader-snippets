@@ -17,8 +17,6 @@ float blinnWyvillCosineApproximation (float x){
 }
 ```
 
-![[Pasted image 20250515133331.png]]
-
 **Double-Cubic Seat**
 ```
 float doubleCubicSeat (float x, float a, float b){
@@ -40,8 +38,6 @@ float doubleCubicSeat (float x, float a, float b){
   return y;
 }
 ```
-
-![[Pasted image 20250515133444.png]]
 
 **Double Cubic Seat With Linear Blend**
 
@@ -67,8 +63,6 @@ float doubleCubicSeatWithLinearBlend (float x, float a, float b){
 }
 ```
 
-![[Pasted image 20250515133536.png]]
-
 **Double Odd Polynomial Seat**
 ```
 float doubleOddPolynomialSeat (float x, float a, float b, int n){
@@ -91,8 +85,6 @@ float doubleOddPolynomialSeat (float x, float a, float b, int n){
   return y;
 }
 ```
-
-![[Pasted image 20250515133606.png]]
 
 **Symmetric Double Polynomial Sigmoid**
 ```
@@ -121,8 +113,6 @@ float doublePolynomialSigmoid (float x, float a, float b, int n){
 }
 ```
 
-![[Pasted image 20250515133648.png]]
-
 **Quadratic through a given point**
 
 ```
@@ -144,5 +134,3 @@ float quadraticThroughAGivenPoint (float x, float a, float b){
   return y;
 }
 ```
-
-![[Pasted image 20250515133845.png]]

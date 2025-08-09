@@ -20,8 +20,6 @@ float exponentialEasing (float x, float a){
   }
 }
 ```
-
-![[Pasted image 20250515134057.png]]
 **Double-Exponential Seat**
 
 ```
@@ -41,8 +39,6 @@ float doubleExponentialSeat (float x, float a){
   return y;
 }
 ```
-
-![[Pasted image 20250515134117.png]]
 **Double-Exponential Sigmoid**
 
 ```
@@ -63,8 +59,6 @@ float doubleExponentialSigmoid (float x, float a){
   return y;
 }
 ```
-
-![[Pasted image 20250515134138.png]]
 **The Logistic Sigmoid**
 
 ```
@@ -84,5 +78,3 @@ float logisticSigmoid (float x, float a){
   return y;
 }
 ```
-
-![[Pasted image 20250515134201.png]]
