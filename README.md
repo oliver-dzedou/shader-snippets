@@ -1,8 +1,6 @@
-# Shader Bible
+# Shader Snippets
 
-Welcome to the Shader Bible.
-
-This is simply a compilation of useful information about shaders and snippets from different sources. 
+This is simply a compilation of useful shaderr snippets from different sources. 
 
 ## Massive Disclaimer
 
